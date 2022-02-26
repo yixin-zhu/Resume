@@ -1,4 +1,3 @@
-# Microsoft Software Engineer - Explore Program - 2022 Summer Intern
 ## Eason Zhu (Zhu Yixin)
 ### Tel:(+86) 18358425535
 ### Email: 19307090029@fudan.edu.cn
